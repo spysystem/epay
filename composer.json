@@ -1,0 +1,13 @@
+{
+	"name": "spysystem/ePay",
+	"description": "PHP library for ePay Web Services",
+	"license": "proprietary",
+	"require": {
+		"php": ">=7.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"EPay\\": "src/"
+		}
+	}
+}
